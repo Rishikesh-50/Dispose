@@ -9,4 +9,4 @@ a = sc.nextInt();
 System.out.print("Enter the Second Number: "); 
 b = sc.nextInt(); 
 c = a+b; 
-System.out.print(c); } } 
+System.out.print("The Sum of "+a+" and "+b+" = "+c); } } 
